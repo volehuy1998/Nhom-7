@@ -15,8 +15,9 @@
 2. Học code hệ mật mã AES trong OpenSSL 
 3. Học code hệ mật mã RSA trong OpenSSL
 4. Học code hệ mật mã RC2/4 trong OpenSSL
-5. __Học cách [phát triển Cryptool 2](https://www.youtube.com/playlist?list=PLMuvAbyIl0PTTfPE2VhJ9PZ6qlOG0MMaX) (đang làm)__
-6. Áp dụng những code những hệ mật mã OpenSSL vào Cryptool 2
+5. **Viết docx (đang làm)**
+6. __Học cách [phát triển Cryptool 2](https://www.youtube.com/playlist?list=PLMuvAbyIl0PTTfPE2VhJ9PZ6qlOG0MMaX) (đang làm)__
+7. Áp dụng những code những hệ mật mã OpenSSL vào Cryptool 2
 ## Tập code thủ công các hệ mật mã (Depending) </br>
 https://github.com/volehuy1998/Cryptography-With-C-Sharp
 ## Đang code
