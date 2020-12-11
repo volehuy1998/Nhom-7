@@ -21,12 +21,14 @@
 ## Môi trường
 1. Windows 10 x64
 1. Visual Studio 2019
-2. OpenSSL
+2. OpenSSL API
 ## Cách cài đặt thư viện OpenSSL dành cho Visual Studio 2019
 1. Tải chương trình vcpkg [tại đây](https://github.com/Microsoft/vcpkg)
 2. Chạy chương trình bootstrap-vcpkg.bat để sinh vcpkg.exe
 3. Để cài đặt thư viện, chạy dòng lệnh __C>vcpkg.exe install openssl__
-4. Để liên kết thư viện vừa tải với Visual Studio, chạy dòng lệnh __C>vcpkg.exe integrate install__  
+4. Để liên kết thư viện vừa tải với Visual Studio, chạy dòng lệnh __C>vcpkg.exe integrate install__
+5. Mở tệp tin solution có đuôi .sln ở link dưới và chọn chế độ x86 thay vì x64
+6. Chạy project
 ## Tập code thủ công các hệ mật mã (Depending) </br>
 https://github.com/volehuy1998/Cryptography-With-C-Sharp
 ## Đang code
