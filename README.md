@@ -21,4 +21,6 @@
 ## Tập code thủ công các hệ mật mã (Depending) </br>
 https://github.com/volehuy1998/Cryptography-With-C-Sharp
 ## Đang code
-https://github.com/volehuy1998/Crypto-Manage-Service
+[App](https://github.com/volehuy1998/CryptoApp)
+[Console](https://github.com/volehuy1998/Crypto-Manage-Service)
+
