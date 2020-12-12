@@ -12,7 +12,7 @@
 5. Slide bài giảng
 ## Kế hoạch làm việc
 1. __[Học code hệ mật mã DES trong OpenSSL](https://github.com/volehuy1998/Native-Des-Lib) (đã xong)__
-2. Học code hệ mật mã AES trong OpenSSL (đang làm)
+2. Học code hệ mật mã AES trong OpenSSL __(đang làm)__
 3. Học code hệ mật mã RSA trong OpenSSL
 4. Học code hệ mật mã RC2/4 trong OpenSSL
 5. [**Viết docx (đang viết phần giới thiệu OpenSSL)**](https://github.com/volehuy1998/Nhom-7/tree/master/B%C3%A1o%20c%C3%A1o)
