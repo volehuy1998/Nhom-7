@@ -28,7 +28,7 @@
 3. Để cài đặt thư viện, chạy dòng lệnh __C>vcpkg.exe install openssl__
 4. Để liên kết thư viện vừa tải với Visual Studio, chạy dòng lệnh __C>vcpkg.exe integrate install__
 5. Mở tệp tin solution có đuôi .sln ở link dưới và chọn chế độ x86 thay vì x64
-6. Chạy project
+6. Chạy [project](https://github.com/volehuy1998/CryptoApp)
 ## Tập code thủ công các hệ mật mã (Depending) </br>
 https://github.com/volehuy1998/Cryptography-With-C-Sharp
 ## Đang code
